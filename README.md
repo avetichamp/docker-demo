@@ -12,5 +12,5 @@ Steps
  `docker-compose down`
 
 For more information
-Docker:  <https://www.docker.com/>
-Spring Boot: <https://spring.io/projects/spring-boot>
+* Docker:  <https://www.docker.com/>
+* Spring Boot: <https://spring.io/projects/spring-boot>
