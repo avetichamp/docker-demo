@@ -1,5 +1,5 @@
 # Aveti Tutorials
-Enjoy tutorials to increase you skill
+Enjoy tutorials to increase your skill
 ## Deploy Spring Boot App in docker
 Steps
 - Build jar with maven
